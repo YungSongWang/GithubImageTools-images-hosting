@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "up": "docker-compose -f deploy.yml up -d",
+    "down": "docker-compose -f deploy.yml down"
+  }
+}
